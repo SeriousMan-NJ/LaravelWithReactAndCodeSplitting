@@ -1,0 +1,10 @@
+{
+    "/scenes/arin.js": "/scenes/arin.js",
+    "/scenes/editor.js": "/scenes/editor.js",
+    "/scenes/text.js": "/scenes/text.js",
+    "/scenes/home.js": "/scenes/home.js",
+    "/vendor/kendo-ui.js": "/vendor/kendo-ui.js",
+    "/vendor/kendo-editor-react-wrapper.js": "/vendor/kendo-editor-react-wrapper.js",
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css"
+}
